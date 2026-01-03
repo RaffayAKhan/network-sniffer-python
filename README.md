@@ -23,3 +23,9 @@ It captures and analyzes TCP, UDP, and ICMP packets on the user’s own machine,
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+## Ethical Disclaimer
+
+This project is strictly for educational purposes.
+All network captures are performed on the author’s own system.
+No third-party traffic or sensitive data is monitored.
