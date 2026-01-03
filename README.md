@@ -19,6 +19,12 @@ It captures and analyzes TCP, UDP, and ICMP packets on the user’s own machine,
   - `pandas` (optional, for analysis/logging)
   - `matplotlib` (optional, for visualization)
 - Npcap installed on Windows
+- 
+## Ethical Disclaimer
+
+This project is strictly for educational purposes.
+All network captures are performed on the author’s own system.
+No third-party traffic or sensitive data is monitored.
 
 Install dependencies:
 ```bash
